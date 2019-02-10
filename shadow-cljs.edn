@@ -1,0 +1,10 @@
+;; shadow-cljs configuration
+{:source-paths
+         ["src/dativity"
+          "test/dativity"]
+
+ :dependencies
+         []
+
+ :builds {:library {:target    :npm-module
+                    :output-dir "target/dativity"}}}

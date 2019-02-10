@@ -1,0 +1,26 @@
+{
+  "name": "dativity",
+  "version": "1.0.0",
+  "description": "a ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agentbellnorm/dativity.git"
+  },
+  "keywords": [
+    "process",
+    "stateless"
+  ],
+  "author": "Morgan Bentell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agentbellnorm/dativity/issues"
+  },
+  "homepage": "https://github.com/agentbellnorm/dativity#readme"
+}
